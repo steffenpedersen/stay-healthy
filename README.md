@@ -29,6 +29,12 @@ I usually go 5 x 5 on each exercise and 30 minutes of cardio.
 
 ## Calorie Intake
 
+What you eat is crucial, if you want a healthy lifestyle. It is important to know your calorie intake, and the amount of calories you need to eat to maintain your current weight. From there you navigate whether you want to build muscle or lose fat. I want to lose fat and not to lose musles 💪🏻🐷. It is also important to know the balance of protein, carbohydrate and fat. 
+
+My personally maintaining calorie intake is 2580 calories a day. Here I will subtract 500 calories, so it will be around **2080 calories a day**. People have different numbers based on age, weight and activity levels. Don’t forget to use a [TDEE calculator][tdee].
+
+I will use a split of **40%** carbohydrates, **40%** proteins and **20%** fats. I will eat lower carb, because my body reacts quite quickly to it. It is important to point out that all numbers are indicative.
+
 ## Meal Plan
 
 ## Supplements
@@ -37,3 +43,4 @@ I have been inspired by [Bodylab][bodylab] and [Buff Dudes][buffdudes].
 
  [bodylab]: https://www.bodylab.dk/
  [buffdudes]: https://www.buffdudes.us/	
+ [tdee]: https://tdeecalculator.net/	
