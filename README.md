@@ -6,12 +6,12 @@ I will in this simple personal guide show a training program, calorie intake, me
 
 ## Table of Contents
 
-* [Work Out](#work-out)
+* [Training Program](#training-program)
 * [Calorie Intake](#calorie-intake)
 * [Meal Plan](#meal-plan)
 * [Supplements](#supplements)
 
-## Work Out
+## Training Program
 
 ## Calorie Intake
 
