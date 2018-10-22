@@ -97,6 +97,15 @@ I just love my skyr 😬
 
 ## Supplements
 
+I want to use supplements to optimize exercise and my overall mood with vitamins, but without being fanatic.
+- Protein: `Description is missing.`.
+- BCAA: `Description is missing.`.
+- Creatine: `Description is missing.`.
+- Vitamin D: `Description is missing.`.
+- Omega-3: `Description is missing.`.
+
+---
+
 I have been inspired by [Bodylab][bodylab] and [Buff Dudes][buffdudes].
 
  [bodylab]: https://www.bodylab.dk/
