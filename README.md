@@ -37,6 +37,64 @@ I will use a split of **40%** carbohydrates, **40%** proteins and **20%** fats. 
 
 ## Meal Plan
 
+I often find pleasure in having a specific plan to follow to achieve my goals. I will try to follow a plan, but not be totally strict about it.
+
+### Breakfast
+| Food  | Protein | Carb | Fat | Calories |
+|-------|---------|------|-----|----------|
+| Skyr  | 22,0    | 8,0  | 0,4 | 126      |
+| Müsli | 3,3     | 18,0 | 2,0 | 109      |
+| Honey | 0,0     | 7,5  | 0,0 | 30       |
+| Total | 25,3    | 33,5 | 2,4 | 265      |
+
+At breakfast I will around 200g skyr, 30g müsli and 10g honey.
+
+### Lunch
+| Food       | Protein | Carb | Fat  | Calories |
+|------------|---------|------|------|----------|
+| Chicken    | 30,0    | 0,0  | 7,5  | 195      |
+| White rice | 3,5     | 36,6 | 0,4  | 169      |
+| Vegetables | 8,8     | 8,0  | 4,2  | 99       |
+| Chili mayo | 0,3     | 2,9  | 2,7  | 39       |
+| Total      | 42,6    | 47,5 | 14,8 | 502      |
+
+At lunch I will eat 150g chopped chicken, 130g white rice, 80g vegetables and a tablespoon chili mayo.
+
+### Afternoon
+| Food       | Protein | Carb | Fat  | Calories |
+|------------|---------|------|------|----------|
+| Proteinbar | 19,0    | 22,0 | 10,0 | 227      |
+| Almonds    | 4,2     | 1,8  | 10,0 | 119      |
+| Total      | 23,2    | 23,8 | 20,0 | 346,0    |
+
+In the afternoon I will eat a proteinbar and 20g almonds.
+
+### After workout
+| Food           | Protein | Carb | Fat | Calories |
+|----------------|---------|------|-----|----------|
+| Protein powder | 23,1    | 2,8  | 3,0 | 126      |
+| Total          | 23,1    | 2,8  | 3,0 | 126      |
+
+After workout I will eat one scoop of protein powder.
+
+### Dinner
+| Food   | Protein | Carb | Fat  | Calories |
+|--------|---------|------|------|----------|
+| Dinner | 40,0    | 30,0 | 10,0 | 500      |
+| Total  | 40,0    | 30,0 | 10,0 | 500      |
+
+Dinner will differ, but I will try to keep it around these numbers.
+
+### Late night
+| Food  | Protein | Carb | Fat | Calories |
+|-------|---------|------|-----|----------|
+| Skyr  | 22,0    | 8,0  | 0,4 | 126      |
+| Müsli | 3,3     | 18,0 | 2,0 | 109      |
+| Honey | 0,0     | 7,5  | 0,0 | 30       |
+| Total | 25,3    | 33,5 | 2,4 | 265      |
+
+I just love my skyr 😬
+
 ## Supplements
 
 I have been inspired by [Bodylab][bodylab] and [Buff Dudes][buffdudes].
