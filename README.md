@@ -15,8 +15,25 @@ I will in this simple personal guide show a training program, calorie intake, me
 
 Here is my training program with exercises, that I am currently doing. I am myself somewhat of a beginner. It is therefore a good idea to focus on the basics, and to perform the exercises properly. This will by far provide the best foundation in the long term.
 
+| Monday                 | Wednesday           | Friday                 |
+|------------------------|---------------------|------------------------|
+| Olympic squat          | Front squat         | Olympic squat          |
+| Rumanian deadlift      | Deadlift            | Rumanian deadlift      |
+| Bench press            | Incline bench press | Incline dumbbell press |
+| Bent over barbell rows | Pendlay rows        | Dumbbell rows          |
+| Arnold press           | Push press          | Military press         |
+| Pullups                | Pulldowns           | Chinups                |
+| Cardio                 | Cardio              | Cardio                 |
+
+I usually go 5 x 5 on each exercise and 30 minutes of cardio.
+
 ## Calorie Intake
 
 ## Meal Plan
 
 ## Supplements
+
+I have been inspired by [Bodylab][bodylab] and [Buff Dudes][buffdudes].
+
+ [bodylab]: https://www.bodylab.dk/
+ [buffdudes]: https://www.buffdudes.us/	
