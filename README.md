@@ -39,7 +39,7 @@ I will use a split of **40%** carbohydrates, **40%** proteins and **20%** fats. 
 
 I often find pleasure in having a specific plan to follow to achieve my goals. I will try to follow a plan, but not be totally strict about it.
 
-### Breakfast
+### Breakfast ☀️
 | Food  | Protein | Carb | Fat | Calories |
 |-------|---------|------|-----|----------|
 | Skyr  | 22,0    | 8,0  | 0,4 | 126      |
@@ -49,7 +49,7 @@ I often find pleasure in having a specific plan to follow to achieve my goals. I
 
 At breakfast I will around 200g skyr, 30g müsli and 10g honey.
 
-### Lunch
+### Lunch 🍽
 | Food       | Protein | Carb | Fat  | Calories |
 |------------|---------|------|------|----------|
 | Chicken    | 30,0    | 0,0  | 7,5  | 195      |
@@ -60,7 +60,7 @@ At breakfast I will around 200g skyr, 30g müsli and 10g honey.
 
 At lunch I will eat 150g chopped chicken, 130g white rice, 80g vegetables and a tablespoon chili mayo.
 
-### Afternoon
+### Afternoon 🍎
 | Food       | Protein | Carb | Fat  | Calories |
 |------------|---------|------|------|----------|
 | Proteinbar | 19,0    | 22,0 | 10,0 | 227      |
@@ -69,7 +69,7 @@ At lunch I will eat 150g chopped chicken, 130g white rice, 80g vegetables and a 
 
 In the afternoon I will eat a proteinbar and 20g almonds.
 
-### After workout
+### After workout 💪🏻
 | Food           | Protein | Carb | Fat | Calories |
 |----------------|---------|------|-----|----------|
 | Protein powder | 23,1    | 2,8  | 3,0 | 126      |
@@ -77,7 +77,7 @@ In the afternoon I will eat a proteinbar and 20g almonds.
 
 After workout I will eat one scoop of protein powder.
 
-### Dinner
+### Dinner 🍽
 | Food   | Protein | Carb | Fat  | Calories |
 |--------|---------|------|------|----------|
 | Dinner | 40,0    | 30,0 | 10,0 | 500      |
@@ -85,7 +85,7 @@ After workout I will eat one scoop of protein powder.
 
 Dinner will differ, but I will try to keep it around these numbers.
 
-### Late night
+### Late night 🌙
 | Food  | Protein | Carb | Fat | Calories |
 |-------|---------|------|-----|----------|
 | Skyr  | 22,0    | 8,0  | 0,4 | 126      |
