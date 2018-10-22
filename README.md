@@ -13,6 +13,8 @@ I will in this simple personal guide show a training program, calorie intake, me
 
 ## Training Program
 
+Here is my training program with exercises, that I am currently doing. I am myself somewhat of a beginner. It is therefore a good idea to focus on the basics, and to perform the exercises properly. This will by far provide the best foundation in the long term.
+
 ## Calorie Intake
 
 ## Meal Plan
