@@ -95,6 +95,12 @@ Dinner will differ, but I will try to keep it around these numbers.
 
 I just love my skyr 😬
 
+### Total 📈
+| Subject        | Protein | Carb  | Fat  | Calories |
+|----------------|---------|-------|------|----------|
+| Daily          | 179,5   | 171,1 | 52,6 | 2004     |
+| Energy balance | 44,5    | 42,4  | 13,0 |          |
+
 ## Supplements
 
 I want to use supplements to optimize exercise and my overall mood with vitamins, but without being fanatic.
